@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.lifetxt.app-mergeDebugResources-64:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/circhos/.gradle/caches/8.8/transforms/08da416940ac4c27e6cc2a46fc2b85a5/transformed/work-runtime-2.9.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                },
+                {
+                    "source": "/home/circhos/.gradle/caches/8.8/transforms/c6ce65fb8100a88a9ebbffe24f3e7d18/transformed/glance-appwidget-1.0.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "184",
+                        "endColumns": "55",
+                        "endOffsets": "235"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#000000</color>
+    <color name="md_theme_dark_onPrimary">#371E73</color>
+    <color name="md_theme_dark_primary">#D0BCFF</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primary">#6750A4</color>
+    <string name="action_add">Agregar</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_export">Exportar</string>
+    <string name="action_import">Importar</string>
+    <string name="action_save">Guardar</string>
+    <string name="app_name">Life.txt</string>
+    <string name="search_hint">Buscar...</string>
+    <string name="tab_calendar">Calendar</string>
+    <string name="tab_focus">Focus</string>
+    <string name="tab_inbox">Inbox</string>
+    <string name="tab_notes">Notes</string>
+    <string name="tab_projects">Projects</string>
+    <string name="tab_todo">Todo</string>
+    <style name="Theme.LifeTxt" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+    </style>
+</resources>
