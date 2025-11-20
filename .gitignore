@@ -28,6 +28,7 @@ replay_pid*
 
 # Android Studio
 .idea/
+.idea/vcs.xml
 *.iml
 build/
 
@@ -52,3 +53,4 @@ Thumbs.db
 
 # Android Studio local properties
 local.properties
+
