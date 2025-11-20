@@ -35,3 +35,20 @@ build/
 .gradle/
 gradle-wrapper.jar
 gradle-wrapper.properties
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+.directory
+
+# Editor temporary files
+*.swp
+*~
+.#*
+
+# Android Studio local properties
+local.properties
